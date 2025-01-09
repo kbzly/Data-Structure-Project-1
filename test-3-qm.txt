@@ -1,0 +1,9 @@
+M
+1
+4
+// cannot reach hanger
+//level 0
+...H
+....
+##..
+S#..
